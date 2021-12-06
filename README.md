@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/C-green)
 ![](https://img.shields.io/badge/Shell-Scripts-green)
-
+https://img.shields.io/badge/License-MIT-green.svg
 
 
 
