@@ -1,4 +1,6 @@
-![](https://img.shields.io/badge/C-green)
+![](https://img.shields.io/badge/C-00599C-green)
+![](https://img.shields.io/badge/Shell_Script)
+
 
 This repository provides an implementation of the beacon-enabled mode of IEEE 802.15.4-2006. More precisely, it implements the main following features:
 
