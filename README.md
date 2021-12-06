@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/C-00599C-green)
+![](https://img.shields.io/badge/C-green)
+![](https://img.shields.io/badge/Shell-Scripts-green)
 
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=green
 
 
 
